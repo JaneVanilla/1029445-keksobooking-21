@@ -1,7 +1,9 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Zhanna](https://up.htmlacademy.ru/javascript/21/user/1029445).
-* Наставник: `Захар Овчаров`.
+
+* Наставник: [Zakhar Ovcharov](https://htmlacademy.ru/profile/id906939).
+
 
 ---
 
